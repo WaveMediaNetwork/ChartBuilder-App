@@ -1,0 +1,1 @@
+A POT file for localization, which can be used as a template for translating the plugin into different languages.
